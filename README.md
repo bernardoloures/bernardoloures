@@ -2,7 +2,7 @@
 
 - Estudante de Sistemas de Informação
 - Centro Universitário Newton Paiva
-- 2º semestre/8
+- 3º semestre/8
 
 <div>
   <a href="https://github.com/bernardoloures">
