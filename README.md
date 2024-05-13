@@ -64,7 +64,6 @@
 - :man_teacher: &nbsp; Também fui professor de Arquitetura de Software na <a href="https://www.xpeducacao.com.br/" target="_blank">XP Educação</a><br /> e de Ciência da Computação na <a href="http://www.fumec.br/" target="_blank">Universidade FUMEC</a>.<br />
 - :atom: &nbsp; Sou entusiasta da Linguagem C, veja alguns códigos que fiz <a href="https://github.com/bernardoloures/c" target="_blank">aqui</a>.<br />(Você já viu código recursivo em C em <a href="https://github.com/bernardoloures/c/blob/main/Aramuni.c" target="_blank">uma linha</a>? :thinking:)<br />
 - :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:bernardo.alleite@gmail.com" target="_blank">e-mail</a> profissional.<br />
-- :page_facing_up: &nbsp; Veja meu <a href="http://lattes.cnpq.br/1208427665892059" target="_blank">Currículo Lattes</a> para mais informações.
 </p>
 </div>
 </div>
