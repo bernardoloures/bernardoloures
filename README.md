@@ -20,9 +20,9 @@
 </td>
 <td><a href="https://wa.me/5531980402103" target="_blank"><img src="https://github.com//bernardoloures/bernadoloures/blob/main/img/wpp2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.instagram.com/joaopauloaramuni/" target="_blank"><img src="https://github.com//bernardoloures/bernadoloures/blob/main/img/insta2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.instagram.com/bernardoloures/" target="_blank"><img src="https://github.com//bernardoloures/bernadoloures/blob/main/img/insta2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.linkedin.com/in/joaopauloaramuni/" target="_blank"><img src="https://github.com//bernardoloures/bernadoloures/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.linkedin.com/in/bernardoloures/" target="_blank"><img src="https://github.com//bernardoloures/bernadoloures/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="http://lattes.cnpq.br/1208427665892059" target="_blank"><img src="https://github.com//bernardoloures/bernadoloures/blob/main/img/lattes2.png?raw=true" width="50px" height="50px"/></a>
 </td>
@@ -64,16 +64,27 @@
 - :briefcase: &nbsp; Na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>, atuei como <code>Tech Lead</code> de Currículo, Liderança de Instrução<br /> e Especialista em Instrução de Tecnologia. Ministrei aulas de Ciência<br /> da Computação para a primeira turma da escola. :man_teacher:<br />
 - :man_teacher: &nbsp; Também fui professor de Arquitetura de Software na <a href="https://www.xpeducacao.com.br/" target="_blank">XP Educação</a><br /> e de Ciência da Computação na <a href="http://www.fumec.br/" target="_blank">Universidade FUMEC</a>.<br />
 - :trophy: &nbsp; Fui o professor destaque do curso de Sistemas de Informação<br /> da <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a> no segundo semestre de 2023.<br />
-- :atom: &nbsp; Sou entusiasta da Linguagem C, veja alguns códigos que fiz <a href="https://github.com/joaopauloaramuni/c" target="_blank">aqui</a>.<br />(Você já viu código recursivo em C em <a href="https://github.com/joaopauloaramuni/c/blob/main/Aramuni.c" target="_blank">uma linha</a>? :thinking:)<br />
+- :atom: &nbsp; Sou entusiasta da Linguagem C, veja alguns códigos que fiz <a href="https://github.com/bernardoloures/c" target="_blank">aqui</a>.<br />(Você já viu código recursivo em C em <a href="https://github.com/bernardoloures/c/blob/main/Aramuni.c" target="_blank">uma linha</a>? :thinking:)<br />
 - :memo: &nbsp; Veja alguns artigos que publiquei <a href="https://scholar.google.com.br/citations?user=OARYxSYAAAAJ&hl=pt-BR&oi=ao" target="_blank">aqui</a>.<br />
 - :books: &nbsp; Acesse os livros que já li ou estou lendo <a href="https://www.skoob.com.br/perfil/Aramuni" 
 - :basketball: &nbsp; Meus hobbies são <a href="https://muonline.webzen.com/pt" target="_blank">Mu online</a>, <a href="https://www.demolidores.com.br/" target="_blank">Tibia</a>, <a href="https://olympico.com.br/esportes/basquete/" target="_blank">basquete</a>, violão e guitarra.<br />
 - :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
-- :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:joaopauloaramuni@gmail.com" target="_blank">e-mail</a> pessoal.<br />
+- :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:bernardoloures@gmail.com" target="_blank">e-mail</a> pessoal.<br />
 - :calendar: &nbsp; Essa é minha <a href="https://calendly.com/aramuni/30min" target="_blank">agenda</a> se quiser marcar um horário para falarmos.<br />
 - :page_facing_up: &nbsp; Veja meu <a href="http://lattes.cnpq.br/1208427665892059" target="_blank">Currículo Lattes</a> para mais informações.
 </p>
 </div>
+</div>
+
+-----
+
+<img height="20" alt="GIF" src="https://github.com/bernardoloures/bernardoloures/blob/main/img/graphic.gif?raw=true"/>GitHub Stats:
+
+<div>
+<img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bernardoloures&theme=github_dark"/>
+<!--- <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bernardoloures&theme=github_dark"/> -->
+<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bernardoloures&theme=github_dark"/>
+<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bernardoloures&theme=github_dark"/>
 </div>
 
 -----
