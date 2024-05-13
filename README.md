@@ -20,7 +20,7 @@
 </td>
 <td><a href="https://www.instagram.com/bernardoloures/" target="_blank"><img src="https://github.com//bernardoloures/bernadoloures/blob/main/img/insta2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.linkedin.com/in/bernardoloures/" target="_blank"><img src="https://github.com/bernardoloures/bernardoloures/blob/main/img/linkedin2.png" width="50px" height="50px"/></a>
+<td><a href="https://www.linkedin.com/in/bernardo-leite-73435b266/" target="_blank"><img src="https://github.com/bernardoloures/bernardoloures/blob/main/img/linkedin2.png" width="50px" height="50px"/></a>
 </td>
 <td><a href="http://lattes.cnpq.br/1208427665892059" target="_blank"><img src="https://github.com//bernardoloures/bernadoloures/blob/main/img/lattes2.png?raw=true" width="50px" height="50px"/></a>
 </td>
