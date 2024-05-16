@@ -42,7 +42,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, me chamo <code>Bernardo</code>, tenho 20 anos, moro em Belo Horizonte/MG, sou estudante do curso de Sistemas de Informação na <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a> e trabalho com T.I na empresa Localiza&Co.
+<i><b>Olá</b> :wave:, me chamo <code>Bernardo</code>, tenho 20 anos, moro em Belo Horizonte/MG, sou estudante do curso de Sistemas de Informação no <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a> e trabalho com T.I na empresa Localiza&Co.
 </div>
 
 -----
@@ -57,11 +57,8 @@
 <div align="justify">
 <p> 
 - :man_teacher: &nbsp; Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>aluno</code> do curso de <br />Sistemas de Informação.<br />
-- :necktie: &nbsp; Na <a href="https://in8.com.br/" target="_blank">IN8</a>, atuei como <code>Tech Manager</code>, responsável pela liderança de<br /> squads de devs de múltiplos projetos para o mercado de milhas aéreas. :airplane:<br />
-- :briefcase: &nbsp; Na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>, atuei como <code>Tech Lead</code> de Currículo, Liderança de Instrução<br /> e Especialista em Instrução de Tecnologia. Ministrei aulas de Ciência<br /> da Computação para a primeira turma da escola. :man_teacher:<br />
-- :man_teacher: &nbsp; Também fui professor de Arquitetura de Software na <a href="https://www.xpeducacao.com.br/" target="_blank">XP Educação</a><br /> e de Ciência da Computação na <a href="http://www.fumec.br/" target="_blank">Universidade FUMEC</a>.<br />
-- :atom: &nbsp; Sou entusiasta da Linguagem C, veja alguns códigos que fiz <a href="https://github.com/bernardoloures/c" target="_blank">aqui</a>.<br />(Você já viu código recursivo em C em <a href="https://github.com/bernardoloures/c/blob/main/Aramuni.c" target="_blank">uma linha</a>? :thinking:)<br />
-- :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:bernardo.alleite@gmail.com" target="_blank">e-mail</a> profissional.<br />
+- :necktie: &nbsp; Na Localiza, atuo como <code>Technology Aprenttice</code>, responsável pelo atendimento de chamados N2 com foco na resolução de problemas relacionados a plataforma Salesforce, monitoramento de aplicações e verificação de logs utilizando a ferramente de APM Datadog.<br />
+- :atom: &nbsp; Sou entusiasta da programação, veja alguns códigos que fiz <a href="https://github.com/bernardoloures?tab=repositories" target="_blank">aqui</a>.<br />
 </p>
 </div>
 </div>
