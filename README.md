@@ -42,7 +42,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Bernardo</code>, tenho 20 anos, moro em Belo Horizonte/MG e sou programador desde os 15 anos de idade. Atualmente sou <code>professor</code> nos cursos de Ciência da Computação, Sistemas de Informação e Análise e Desenvolvimento de Sistemas do <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a> e também nos cursos de Engenharia de Software e Ciência da Computação da <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> :man_teacher:<br />
+<i><b>Olá</b> :wave:, me chamo <code>Bernardo</code>, tenho 20 anos, moro em Belo Horizonte/MG, sou estudante do curso de Sistemas de Informação na <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a> e trabalho com T.I na empresa Localiza&Co.
 </div>
 
 -----
