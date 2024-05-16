@@ -26,7 +26,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, me chamo <code>Bernardo</code>, tenho 20 anos, moro em Belo Horizonte/MG, sou estudante do curso de Sistemas de Informação no <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a> e trabalho com T.I na empresa Localiza&Co.
+<i><b>Olá</b> :wave:, me chamo <code>Bernardo</code>, tenho 20 anos, moro em Belo Horizonte/MG, sou estudante do curso de Sistemas de Informação no <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a> e trabalho com T.I na empresa Localiza&Co há 1 ano.
 </div>
 
 -----
