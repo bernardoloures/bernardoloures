@@ -12,7 +12,7 @@
  <td align="center" colspan="11"></td>
 </tr> 
 <tr>
-<td><a href="https://github.com/bernardoloures" target="_blank"><img src="https://github.com//bernardoloures/bernadoloures/blob/main/img/github5.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://github.com/bernardoloures" target="_blank"><img src="https://github.com/bernardoloures/bernardoloures/blob/main/img/github.png" width="50px" height="50px"/></a>
 </td>
 <td><a href="mailto:bernardo.alleite@gmail.com" target="_blank"><img src="https://github.com/bernardoloures/bernardoloures/blob/main/img/gmail3.png" width="50px" height="50px"/></a>
 </td>
