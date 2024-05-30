@@ -35,7 +35,7 @@
 
 <img height="20" alt="GIF" src="https://github.com/bernardoloures/bernardoloures/blob/main/img/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
 
-<code><a href="https://www.gnu.org/software/bash/" target="_blank"><img height="32" src="https://github.com/bernardoloures/bernardoloures/blob/main/img/github.png?raw=true"/></a></code>
+<code><a href="https://www.gnu.org/software/bash/" target="_blank"><img height="32" src="https://github.com/bernardoloures/bernardoloures/blob/main/img/java.png?raw=true"/></a></code>
 
 </div>
 
