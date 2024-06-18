@@ -1,8 +1,11 @@
 -----
 
-<div>
-<img align="center" alt="Header" src="https://github.com/bernardoloures/bernardoloures/blob/main/img/header1.png"/>
-</div>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=808080&center=true&vCenter=false&repeat=true&random=false&width=435&lines=Hii%2C+I'm+David+Mendes!!;+I+study+computer+science." alt="Typing SVG">
+  </a>
+</p>
+
 
 -----
 
