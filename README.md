@@ -54,7 +54,7 @@
 <div align="justify">
 <p> 
 - :man_teacher: &nbsp; Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>aluno</code> do curso de <br />Sistemas de Informação.<br />
-- :necktie: &nbsp; Na Localiza, atuo como <code>Technology Aprenttice</code>, responsável pelo atendimento de chamados N2 com foco na resolução de problemas relacionados a plataforma Salesforce, monitoramento de aplicações e verificação de logs utilizando a ferramenta de APM Datadog.<br />
+- :necktie: &nbsp; Na Localiza, atuo como <code>Systems Analyst Aprenttice</code>, responsável pelo atendimento de chamados N2 com foco na resolução de problemas relacionados a plataforma Salesforce, monitoramento de aplicações e verificação de logs utilizando a ferramenta de APM Datadog.<br />
 - :atom: &nbsp; Sou entusiasta da programação, veja alguns códigos que fiz <a href="https://github.com/bernardoloures?tab=repositories" target="_blank">aqui</a>.<br />
 </p>
 </div>
